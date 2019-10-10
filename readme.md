@@ -5,7 +5,7 @@ Projeto desenvolvido com base no modelo do [Instagram](https://www.instagram.com
 
 ## O desafio
 
-_!"Seu desafio é criar uma página ao estilo Instagram com feed e CRUD de posts. [...] Para este projeto você deve possuir uma API e um front-end (Single Page Application)."_
+_"Seu desafio é criar uma página ao estilo Instagram com feed e CRUD de posts. [...] Para este projeto você deve possuir uma API e um front-end (Single Page Application)."_
 
 
 ## Tecnologias utilizadas
