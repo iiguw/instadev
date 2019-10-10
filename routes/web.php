@@ -11,6 +11,15 @@
 |
 */
 
+// Rota incial 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+// Gravação de imagens e posts
+Route::post('/store', 'PostsController@store')
+	->name('postar');
+
+// Retorna posts
+Route::get('/list', 'PostsController@list')
+	->name('listar');
