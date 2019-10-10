@@ -1,4 +1,4 @@
-# Instadev - Teste Técnico da UOTS
+# Instadev - Teste Técnico da UOTZ
 
 Projeto desenvolvido com base no modelo do [Instagram](https://www.instagram.com/), com feed infinito e atualização e upload de fotos e legendas.
 
